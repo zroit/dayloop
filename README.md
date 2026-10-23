@@ -6,7 +6,7 @@
 
 <p align="center">A simulated Alexa+ agent that runs your workday, keeps your promises to clients, and remembers tomorrow.</p>
 
-<p align="center"><a href="https://zroit.github.io/dayloop/"><b>Live demo</b></a> · <a href="#run-it">Run it</a> · <a href="#the-mcp-server">MCP server</a> · <a href="#how-it-is-built">How it is built</a></p>
+<p align="center"><a href="https://zroit.github.io/dayloop/"><b>Live demo</b></a> · <a href="https://youtu.be/PfehSqxoCR0"><b>Demo video (2:18)</b></a> · <a href="#run-it">Run it</a> · <a href="#the-mcp-server">MCP server</a> · <a href="#how-it-is-built">How it is built</a></p>
 
 ![DayLoop replanning after a 40 minute delay: the invoice no longer fits, so a heads-up to the client waits for approval](docs/images/midday-replan.png)
 
