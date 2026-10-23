@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="DayLoop">
+  <defs>
+    <linearGradient id="dl-ring" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#8ae6ff"/>
+      <stop offset="1" stop-color="#1c9fe0"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="16" fill="#0b1220"/>
+  <!-- the loop of the day, left open where the promise closes it -->
+  <path d="M 44.73 19.27 A 18 18 0 1 0 50 32" fill="none" stroke="url(#dl-ring)" stroke-width="7" stroke-linecap="round"/>
+  <circle cx="48.6" cy="25.1" r="4.4" fill="#ffb547"/>
+</svg>
