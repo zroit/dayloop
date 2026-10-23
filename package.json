@@ -1,0 +1,26 @@
+{
+  "name": "dayloop",
+  "version": "2.0.0",
+  "private": true,
+  "description": "DayLoop - the Alexa+ promise keeper for your workday (simulated Alexa+ experience)",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "mcp": "node mcp/server.js",
+    "test": "node --test test/*.test.js",
+    "mcp:demo": "node scripts/mcp-demo.js"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.32.1",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "zod": "^4.6.7"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.7.0",
+    "vite": "^5.4.21"
+  }
+}
